@@ -1,2 +1,2 @@
-### Project JavaScript
+# Project JavaScript
 Introduction to JavaScript project
